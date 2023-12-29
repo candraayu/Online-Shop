@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body {
+    background-color: #eaeaea;
+    font-family: 'poppins', sans-serif;
+    font-size: 14px;
+    color: #2d2d2d;
+}
+/* 
+.form-control {
+    width: 350px;
+} */
+
+.img-categori {
+    width: 50px;
+}
+
+.img-categori:hover {
+    transform: scale(1.2);
+}
+
+.row-container {
+    background-color: #fff;
+    margin: 0px;
+}
+
+.judul-kategori {
+    background-color: #fff;
+    padding: 5px 10px;
+}
+
+.text-center {
+    margin-top: 5px;
+}
+
+.card:hover {
+    border: 2px solid #2d2d2d;
+}
+
